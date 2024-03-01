@@ -19,7 +19,7 @@
 2. Navigate to the project directory: `cd news_app`
 3. Install dependencies: `flutter pub get`
 4. Obtain an API key from [News API](https://newsapi.org) by signing up for an account.
-5. Add your API key to the project in the services package, NewService class.
+5. Add your API key to the project in the services package, NewsService class.
 
 ## Preview
 - <img src="https://github.com/nadaamohhamed/News-App/assets/96924895/06029cc1-371b-416c-a9ac-b155f2a0244a" alt="Home" width="250"/> <img src="https://github.com/nadaamohhamed/News-App/assets/96924895/2bae91b2-0773-4c10-9a67-fa0bd069bf9d" alt="WebView" width="250"/> <img src="https://github.com/nadaamohhamed/News-App/assets/96924895/ed4379a4-e499-4ad2-8e88-25ba0d735687" alt="Category" width="250"/> 
