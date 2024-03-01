@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 import 'package:news_app/models/article_model.dart';
 
 // set your API key that is associated with your registered account in newsapi.org
-const apiKey = '92906d68cd714b998c031559dd041373';
+const apiKey = '';
 
 class NewsService {
   final Dio dio;
